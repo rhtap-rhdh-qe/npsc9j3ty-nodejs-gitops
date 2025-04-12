@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: npsc9j3ty-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/npsc9j3ty-nodejs-gitops
